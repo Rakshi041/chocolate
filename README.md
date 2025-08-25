@@ -1,2 +1,1 @@
-# chocolate
-animation css
+developed a website using HTML CSS and animation 
